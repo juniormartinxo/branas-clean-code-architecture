@@ -1,0 +1,9 @@
+### Design vs. Arquitetura
+
+Design e Arquitetura são dois conceitos interligados no desenvolvimento de software, mas possuem diferenças sutis em suas abordagens e escopos.
+
+O Design de software é a criação de soluções detalhadas e específicas para problemas de programação. Ele está mais relacionado com as decisões de nível de código, como a estruturação de classes, a organização de métodos e a definição de interfaces. O Design visa garantir que o código seja eficiente, legível, reutilizável e fácil de manter. É uma etapa crucial do processo de desenvolvimento, pois é responsável pela implementação concreta das funcionalidades do software.
+
+Já a Arquitetura de software é uma visão mais ampla e estratégica do sistema como um todo. Ela envolve a definição de como os componentes do software se relacionam entre si, como as diferentes partes do sistema interagem e como as decisões de design se encaixam em uma visão de longo prazo. A Arquitetura de software abrange questões como escalabilidade, desempenho, segurança, integração com outros sistemas e a estrutura geral do software. É uma abordagem mais abstrata, que define a organização geral do sistema e como ele se encaixa no contexto maior do ambiente em que será executado.
+
+Em resumo, o Design de software é a implementação detalhada e concreta das funcionalidades do software, enquanto a Arquitetura de software é a visão estratégica e abstrata do sistema como um todo. Ambos são essenciais para o desenvolvimento de software de qualidade, sendo que o Design está mais focado nas decisões de nível de código e o Design de Arquitetura está mais voltado para a organização geral e a visão estratégica do sistema. Ambos são complementares e devem ser considerados em conjunto para garantir a construção de software robusto, escalável e sustentável.

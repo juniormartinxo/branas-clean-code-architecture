@@ -1,4 +1,13 @@
-# Projeto - Parte 1
+# Aula 01
+
+Na aula 01 o professor Rodrigo Branas abordou sobre:
+
+- [Clean Code](clean-code.md)
+- [Refactoring](refactoring.md)
+- [Code Smells e Técnicas de Refactoring](code-smells-tec-refactoring.md)
+- [Design vs. Arquitetura](design-vs-architecture.md)
+
+## Projeto - Parte 1
 
 ### Cenário
 
